@@ -21,18 +21,18 @@ https://data.boston.gov/dataset/employee-earnings-report
 
 Earnings data is available for City of Boston employees from 2011 to 2016 as annual “CSV” files or accessible through an API. The entries are classified into the following columns:
 
-'name' = Full name of city employee
-'department' = Department name
-'title' = Job title
-'regular' = Base earnings (salary) as total of pay for a given year
-'retro' = Retroactive payments for a given year
-'other' = Additional payments categorized as “other”
-'overtime' = Overtime pay
-'injured'  = payment issued for qualified employees who are not working due 					to injuries
-'detail’ = ???
-'quinn' = Education incentive specifically for police department
-'total' = Numerical sum of prior columns
-'zip' = Zip code of employee’s primary residence
+- 'name' = Full name of city employee
+- 'department' = Department name
+- 'title' = Job title
+- 'regular' = Base earnings (salary) as total of pay for a given year
+- 'retro' = Retroactive payments for a given year
+- 'other' = Additional payments categorized as “other”
+- 'overtime' = Overtime pay
+- 'injured'  = payment issued for qualified employees who are not working due 					to injuries
+- 'detail’ = ???
+- 'quinn' = Education incentive specifically for police department
+- 'total' = Numerical sum of prior columns
+- 'zip' = Zip code of employee’s primary residence
 
 
 ### In brief, outline your approach to solving this problem (knowing that this might change later).
