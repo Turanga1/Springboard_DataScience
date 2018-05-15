@@ -1,6 +1,4 @@
-## This is a markdown file
-
-###  Capstone #1 Project Proposal
+﻿#  Capstone #1 Project Proposal
 
 # City of Boston Payroll Analysis
 
