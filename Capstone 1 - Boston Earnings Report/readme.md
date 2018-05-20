@@ -9,18 +9,18 @@ https://data.boston.gov/dataset/employee-earnings-report
 
 The entries are classified into the following columns:
 
-'name' = Full name of city employee
-'department' = Department name
-'title' = Job title
-'regular' = Base earnings (salary) as total of pay for a given year
-'retro' = Retroactive payments for a given year
-'other' = Additional payments categorized as “other”
-'overtime' = Overtime pay
-'injured'  = Payment issued for qualified employees who are not working due to injuries
-'detail’ = Construction detail work
-'quinn' = Education incentive specifically for police department
-'total' = Numerical sum of prior columns
-'zip' = Zip code of employee’s primary residence
+* ***name*** = Full name of city employee
+* ***department*** = Department name
+* ***title*** = Job title
+* ***regular*** = Base earnings (salary) as total of pay for a given year
+* ***retro*** = Retroactive payments for a given year
+* ***other*** = Additional payments categorized as “other”
+* ***overtime*** = Overtime pay
+* ***injured***  = Payment issued for qualified employees who are not working due to injuries
+* ***detail*** = Construction detail work
+* ***quinn*** = Education incentive specifically for police department
+* ***total*** = Numerical sum of prior columns
+* ***zip*** = Zip code of employee’s primary residence
 
 
 The report will focus on the following questions:
